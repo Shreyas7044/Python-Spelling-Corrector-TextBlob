@@ -19,4 +19,4 @@ Install TextBlob using:
 pip install textblob
 
 ## Application Screenshot
-![Screenshot](
+![Screenshot](screenshot.png)
