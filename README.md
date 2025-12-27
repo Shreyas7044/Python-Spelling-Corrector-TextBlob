@@ -17,6 +17,3 @@ TextBlob is a Python library for processing text data. It provides a simple API 
 Install TextBlob using:
 ```bash
 pip install textblob
-
-## Application Screenshot
-![App Screenshot](./screenshot.png)
