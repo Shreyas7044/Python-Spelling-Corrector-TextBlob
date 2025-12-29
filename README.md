@@ -14,7 +14,7 @@ TextBlob is a Python library for processing text data. It provides a simple API 
 - Classification
 
 ## 🖼 Application Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Python-Spelling-Corrector-TextBlob/screenshot.png)
 
 ## Installation
 Install TextBlob using:
