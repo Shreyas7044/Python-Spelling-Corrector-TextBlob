@@ -13,6 +13,9 @@ TextBlob is a Python library for processing text data. It provides a simple API 
 - n-grams
 - Classification
 
+## 🖼 Application Screenshot
+![Application Screenshot](screenshot.png)
+
 ## Installation
 Install TextBlob using:
 ```bash
